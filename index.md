@@ -13,7 +13,7 @@ humandate: "February 23 - 24, 2023"    # human-readable dates for the workshop (
 humantime: "10:00 - 4:00 EST"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2023-02-23      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2023-02-24        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["instructor one", "instructor two"] # boxed, comma-separated list of instructors' names as strings, like ["Tim Ribaric", "Daniel Brett"]
+instructor: ["Tim Ribaric", "Daniel Brett"] # boxed, comma-separated list of instructors' names as strings, like ["Tim Ribaric", "Daniel Brett"]
 helper: ["TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["dsl@brocku.ca"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
@@ -322,6 +322,10 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 <hr/>
 {% endif %}
 
+<h2>Hybrid Event</h2>
+<p>
+  We will be running this event in a hybrid format. The In-Person component will be held in the Digital Collaboratory (RFP 216). The online component will be held using <a href=:https://discord.com/>Discord</a>. If attending online please ensure that you have the Discord Desktop Platform installed for the best experience.
+</p>
 
 {% comment %}
 SURVEYS - DO NOT EDIT SURVEY LINKS
