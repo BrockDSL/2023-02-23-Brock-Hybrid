@@ -324,7 +324,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 
 <h2>Hybrid Event</h2>
 <p>
-  We will be running this event in a hybrid format. The In-Person component will be held in the Digital Collaboratory (RFP 216). The online component will be held using <a href=https://discord.com/ target="_blank">Discord</a>. If attending online please ensure that you have the Discord Desktop Platform installed for the best experience.
+  We will be running this event in a hybrid format. The In-Person component will be held in the Digital Collaboratory (RFP 216). The online component will be held using <a href="https://discord.com/" target="_blank">Discord</a>. If attending online please ensure that you have the Discord Desktop Platform installed for the best experience.
 </p>
 
 {% comment %}
