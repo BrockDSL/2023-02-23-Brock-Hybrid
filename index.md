@@ -92,7 +92,7 @@ displayed if the 'eventbrite' field in the header is not set.
   <a href="https://www.eventbrite.ca/e/data-carpentry-social-science-curriculum-tickets-419642521077" target="_blank">
     <button type="button" class="btn btn-info">Register Here</button>
   </a>
-  <br><br>Registration will open December 1, 2022.
+  <br><br><em>Registration will open December 1, 2022.</em>
 </p>
 
 <h2 id="general">General Information</h2>
