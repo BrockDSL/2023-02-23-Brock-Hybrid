@@ -4,7 +4,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "Brock University"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "1812 Sir Issac Brock Blvd"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "1812 Sir Issac Brock Blvd (TH 253 for in-person)"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "CA"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "EN"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "45.119900"        # decimal latitude of workshop venue (use https://www.latlong.net/)
@@ -324,7 +324,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 
 <h2>Hybrid Event</h2>
 <p>
-  We will be running this event in a hybrid format. The In-Person component will be held in the Digital Collaboratory (RFP 216). The online component will be held using <a href="https://discord.com/" target="_blank">Discord</a>. If attending online please ensure that you have the Discord Desktop Platform installed for the best experience.
+  We will be running this event in a hybrid format. The In-Person component will be held in TH 253. The online component will be held using <a href="https://discord.com/" target="_blank">Discord</a>. If attending online please ensure that you have the Discord Desktop Platform installed for the best experience.
 </p>
 
 {% comment %}
